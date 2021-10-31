@@ -1,0 +1,90 @@
+a {
+  font-size: 20px;
+  padding: 30px;
+  text-decoration: none;
+  color: red;
+}
+#logo img {
+  width: 120px;
+  height: 100px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 800px;
+}
+#p1 {
+  text-align: justify;
+
+  color: rgb(16, 27, 27);
+  font-size: 19px;
+}
+h1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: cornflowerblue;
+}
+h2 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40px;
+  color: darkslategrey;
+}
+.t1:hover {
+  transform: scale(1.1);
+}
+.t2:hover {
+  transform: scale(1.1);
+}
+.t3:hover {
+  transform: scale(1.1);
+}
+.t4:hover {
+  transform: scale(1.1);
+}
+.t5:hover {
+  transform: scale(1.1);
+}
+.t6:hover {
+  transform: scale(1.1);
+}
+footer {
+  border: 3px solid darkblue;
+  height: 200px;
+  border-radius: 20px;
+}
+#p2::first-letter {
+  font-size: 60px;
+}
+#p2 {
+  padding-left: 20px;
+  font-size: 40px;
+}
+#logo {
+  position: sticky;
+  top: 0;
+  height: 20%;
+}
+body {
+  background-color: lightcyan;
+}
+#nav1 {
+  /* border: 2px solid red; */
+  /* display: inline-block; */
+  align-items: center;
+  height: 20px;
+  margin-top: 40px;
+  font-size: 25px;
+}
+#container {
+  display: flex;
+}
+/* #cg { */
+/* border: 2px solid red; */
+/* background-color: lightgreen; */
+/* padding: 20px; */
+/* height: 400px; */
+/* } */
